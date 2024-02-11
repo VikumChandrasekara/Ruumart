@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ruumart/static/css/main.98b919f3.css",
-    "main.js": "/Ruumart/static/js/main.5d2caa62.js",
-    "static/js/787.8bbdd70c.chunk.js": "/Ruumart/static/js/787.8bbdd70c.chunk.js",
-    "index.html": "/Ruumart/index.html",
-    "main.98b919f3.css.map": "/Ruumart/static/css/main.98b919f3.css.map",
-    "main.5d2caa62.js.map": "/Ruumart/static/js/main.5d2caa62.js.map",
-    "787.8bbdd70c.chunk.js.map": "/Ruumart/static/js/787.8bbdd70c.chunk.js.map"
+    "main.css": "/static/css/main.98b919f3.css",
+    "main.js": "/static/js/main.6f1a16c3.js",
+    "static/js/787.8bbdd70c.chunk.js": "/static/js/787.8bbdd70c.chunk.js",
+    "index.html": "/index.html",
+    "main.98b919f3.css.map": "/static/css/main.98b919f3.css.map",
+    "main.6f1a16c3.js.map": "/static/js/main.6f1a16c3.js.map",
+    "787.8bbdd70c.chunk.js.map": "/static/js/787.8bbdd70c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98b919f3.css",
-    "static/js/main.5d2caa62.js"
+    "static/js/main.6f1a16c3.js"
   ]
 }
